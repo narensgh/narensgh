@@ -1,12 +1,12 @@
 # Narendra Singh - narensgh
 
-Full stack developer with 8+ years of experience in `Java`, `Golang`, `JavaScript` and `PHP`. 
+Full stack developer with 9+ years of experience in `Java`, `Golang`, `JavaScript` and `PHP`. 
 
 Worked on frameworks like `spring-boot`,`Angular`, `React` and `CodeIgniter`.
 
-Worked for **#PWA** and onsite Engagement. 
+Worked for **#PWA** and onsite Engagement **#Personalization** on Website.. 
 
-Currently working for **#Personalization** on Website.
+Currently building community platform around Entertainment, Bollywood, Lifestye and Fashion
 
 
 # Contact
